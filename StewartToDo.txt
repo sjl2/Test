@@ -1,0 +1,339 @@
+=================================================================================================================================================================
+07/08/14
+=================================================================================================================================================================
+SDLC Plan
+	Find good instructions on how to store GitHub credentials
+	Find some other python pre-commit hooks
+		Try to full understand them
+		Record anything useful you like about them
+	Edit FileRipper's Hook
+		Can you try and autopush to the Testing Repo?
+			Have it clone the Repo if it doesn't exist?
+			Remove it when done? 
+		Email Notification?
+			Review Server/Client Notes from CS18
+		Does it check if it's updated?	 
+Wiki Documentation
+	Templates?
+		Dig into the source code a little bit
+=================================================================================================================================================================
+07/07/14
+=================================================================================================================================================================
+SDLC Plan
+	Find good instructions on how to store GitHub credentials 
+	Learn about scripting
+		Write a Python script that works with command line
+	Add a script to the pre-commit hook
+*****************************************************************************************************************************************************************
+Redraw map with new information 
+Install Nant
+	Gotta find step by step instructions for noobs
+Keep Learning useful stuff with Python
+	Learn more about email notifications with python hooks
+Good Instructions for the GitHub Credentials
+=================================================================================================================================================================
+07/03/14
+=================================================================================================================================================================
+SDLC Plan
+	Map out the entire process
+	Determine where scripts will be needed
+	Determine what each hook will need to do
+	Learn how to deploy to virtual machines
+	Learn Nant
+*****************************************************************************************************************************************************************
+Hack-a-Thon
+=================================================================================================================================================================
+07/02/14
+=================================================================================================================================================================
+Sync Git and GitHub
+	Steven knows how to deal with credentials
+	Create the script that pushes immediately after commit
+Pow-Wow with Ryan 
+=================================================================================================================================================================
+07/01/14
+=================================================================================================================================================================
+Presentation
+	Presented! Woohooooo
+Sync Git and GitHub
+	Figure out how to store credentials
+Vagrant
+	Read about Vagrant
+=================================================================================================================================================================
+06/30/14
+=================================================================================================================================================================
+Presentation
+	Practice a couple more times if possible
+Get comfortable with Git, Respositories, Github
+	Read on how to sync Git with Github
+	Read about programming actions immediately after commits
+	Read up on how to set up a virtual box
+=================================================================================================================================================================
+06/27/14
+=================================================================================================================================================================
+Presentation
+	Prepare
+		Run through slides again, collect any more data you can on Servers
+	Present to Ryan
+		Get some feedback, see if it's even ready for today
+	Work on Ryan's Feedback
+		See if you can fix any problems he finds with it
+*****************************************************************************************************************************************************************
+Presentation
+	Make changes to slide that Ryan was talking about
+	2x Full Run Throughs in private (Outside?) 
+Present Monday
+=================================================================================================================================================================
+06/26/14
+=================================================================================================================================================================
+Snapshots of how each server is doing CPU and Memory-wise
+Recommendations
+	Look for examples of what you want done 
+*****************************************************************************************************************************************************************
+Thoroughly read through all notes
+	Edit them to make sure they are good
+Silent read through entire presentation
+Look into Templates
+	Gotta Edit the Edit Page
+		Learn some HTML/JS
+Familiarize myself with Internship Part 2
+	See what you can begin today
+	Maybe some installizations
+Don't leave without feeling prepared to present tomorrow
+=================================================================================================================================================================
+06/25/14
+=================================================================================================================================================================
+Presentation
+	Finish Power Point
+	Check With Ryan on Content and Ideas
+	Practice
+=================================================================================================================================================================
+06/24/14
+=================================================================================================================================================================
+Presentation
+	Intro
+	Healthy Servers?
+		What makes a server healthy??
+	Go over what is currently managed
+		Break down the stats
+		Analyze Stats
+		Break down by server
+		Break down by platform
+		Analyze
+	FileRipperResults
+		What is FileRipper
+		Picked up stuff that may just be there
+			Break down by Server
+			Break down by platform
+		Here's the stuff that's super old and unmanaged
+			Criteria for super old stuff
+			Create Plan for dealing with old stuff
+				1. Have every developer look through the list
+					If Recognize -> Do not delete
+					Else -> Archive to a non-server computer
+	Introduce the Wiki
+		Source of All Documentation for JJF IT
+		Overview of the Organization
+			Homepage, Server pages, Project Pages
+				Will not be operational until templates can be made for Roadkill
+			Homepage will have links to each project and server 
+				Multiple ways to get to each project
+		How to keep alive...
+			Developers -> All info is needed
+			Managers -> Project done iff documentation done 
+Questions for Ryan
+	Should I split up programs that have their langauge as C#/Html/JS/....
+=================================================================================================================================================================
+06/19/14
+=================================================================================================================================================================
+Continue Server Organization
+	One Solution per Server
+Ask Ryan
+	What more server info do I need? 
+	Enough software info?
+	What should I check for updates? (VS? Microsoft Office? etc.) 
+	Presentation
+Make the information prettier
+	Pie Charts for Drives  
+*****************************************************************************************************************************************************************
+Look into Roadkill Wiki Templates
+Organize Wiki to Ryan's Setup
+Presentation
+	Intro
+	Healthy Servers?
+		Research What makes a healthy Server
+	Go over what is currently managed
+		Break down the stats
+		Analyze Stats
+		Break down by server
+		Break down by platform
+		Analyze
+	FileRipper Results
+		Picked up stuff we don't know about
+			Break down by server
+			Break down by platform
+		Here's the stuff that's super old and unmanaged
+			What do you do with this stuff?
+				Gotta check it first, then archive? 
+	Introduce the Wiki
+		Here's where documentation will be
+		Overview of organization
+		What will be required of developers to keep it updated and alive
+			ALL THE INFORMATION
+		What will be required of managers to keep it alive
+			Time -- Software development times will increase with no immediate benefit, but this will help later when you want to know exactly what's going where.  	
+=================================================================================================================================================================
+06/18/14
+=================================================================================================================================================================
+Continue Server Organization Plan
+	One Solution per Server
+	How to identify dead programs (Ryan) 
+Obtain Hardware Info
+	Sign In Remotely
+	Go to properties 
+	What extent should I go into software? (Ask Ryan) 
+=================================================================================================================================================================
+06/17/14
+=================================================================================================================================================================
+FileRip Rackspace?
+Obtain Hardware Info
+	Sign In Remotely
+	Go to properties 
+	What extent should I go into software? (Ask Ryan) 
+Establish Documentation Wiki
+	Create Outlines
+	Fill in Audit Project
+	Create Home Page
+Make Pretty Diagrams in LibreDraw
+		Server -> Databases (Make mostly lists) 
+		Server -> Server (w/info)
+Learn More Git (If Free Time)
+Begin Server Organization
+	Look through FileRip and FileRipSQL
+		Get mental inventory of what's in those tables 
+	One Solution per Server
+		Try and group together similar projects
+	Bring out your dead 
+		List any dead programs, tables, or databases
+=================================================================================================================================================================
+06/16/14
+=================================================================================================================================================================
+FileRip Rackspace?
+Finish SQL? 
+	Not sure if it's a thing to just use a bunch of joins
+	Might need to use sp_MSforeachDB
+Obtain Hardware Info
+	Sign In Remotely
+	Go to properties 
+Extend LibreOffice Draw to do Server Diagrams
+	Make Pretty Diagrams
+		Server -> Databases
+		Server -> Server (w/info)
+Learn More Git (If Free Time)
+Begin Server Organization
+	Look through FileRip and FileRipSQL
+		Get mental inventory of what's in those tables 
+	One Solution per Server
+		Try and group together similar projects
+	Bring out your dead 
+		List any dead programs, tables, or databases
+=================================================================================================================================================================
+06/12/14
+=================================================================================================================================================================
+Keep FileRipping
+	Rackspace
+Do Something with Roadkill
+	Find Markdown cheat sheet
+Finish SQL select, temp table insert with Ryan 
+	Run on Each Linked Server
+Begin Analyzing?
+Redo Master Audit Sheet 
+=================================================================================================================================================================
+06/11/14
+=================================================================================================================================================================
+Keep FileRipping
+	Finish FDSERVER
+		C:\ and D:\ Done 
+Work with Ryan on Installing Roadkill
+	Learn Markdown
+Run SQL Table Merge on each Linked Server
+Learn How to Use Git 
+	Create Repositories
+	Store and track some text files 
+=================================================================================================================================================================
+06/10/14
+=================================================================================================================================================================
+Begin FileRipping On Servers
+	Extensions:
+		sql,fxp,fll,cs,pjx,prg,app,js,html,css,java,txt,vbs,fpt,bat,dbf,prn
+Run SQL Table Merge on each Linked Server
+Install Wiki 
+	Learn markup language
+Learn How to Use Git (Afternoon)
+	Create Repositories
+	Store and track some text files. 
+=================================================================================================================================================================
+06/09/14
+=================================================================================================================================================================
+Tighten up FileRipper to begin ripping tomorrow
+Gather list of all servers to be audited for tomorrow
+	Need From:
+		Kevin
+		Soi 
+	Add ServerLinks to SQL Server Database
+Download VISIO
+Update Software and continue learning GIT 
+Gather Audit Forms from:
+	Marjorie
+	Soi
+=================================================================================================================================================================
+06/05/14
+=================================================================================================================================================================
+Test FileRipper for Memory Leaks on C:/
+Fix Up MergeAuditLogSQL 
+	Connect to Server (Don't use Local) (Ask Ryan)
+	Merges
+	Total Accesses are accurate
+	Add LastAccess
+Begin FileRipping on other Servers (Ask Ryan)
+=================================================================================================================================================================
+06/04/14
+=================================================================================================================================================================
+Overlying Task: Execute Audit 
+	Combine in the excel sheets as they come in
+	Generate a list of names for personal interviews
+	Conduct Personal Interviews 
+	Begin FileRipping
+Figure Out How to Add SQL Databases to the Audit
+=================================================================================================================================================================
+06/03/14
+=================================================================================================================================================================
+Overlying Task: Execute Audit 
+	Combine in the excel sheets as they come in
+	Generate a list of names for personal interviews
+	Conduct Personal Interviews 
+Add SQL Server Databases to Audit 
+	Write Query to retrieve all Databases on a server (Google)
+		Determine which ones are empty/unused
+Learn about Servers
+	Where are they?
+	What's on them?
+	Brush up on how server's work
+		Client-Server Communication
+		Sockets
+		Are these special? 
+	Learn about Server Diagrams
+		How to make
+		Programs to use for it
+	Begin Server Diagrams
+		Add programs as I learn about it
+=================================================================================================================================================================
+06/02/14
+=================================================================================================================================================================
+Make FileRipper Pretty 
+Prepare for Audit
+	Execution: Email out spreadsheet (I'll merge)
+	Possible to Copy LibreOffice Calc to SQL Server 
+Practice More SQL
+	View
+	Stored Procedure
+	Normalized to the Third Rule
