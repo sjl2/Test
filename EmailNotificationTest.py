@@ -18,7 +18,6 @@ message['To'] = sender
 message['Subject'] = subject
 message.attach(MIMEText(body,'plain'))
 
-
 try:
 	smtpObj = smtplib.SMTP("smtp.emailsrvr.com", 587)
 	#smtpObj.set_debuglevel(True)  # show communication with the server
