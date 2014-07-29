@@ -1,0 +1,22 @@
+While you were gone, I...
+-Started Pre-commit Scripts
+	Currently:
+		Fetches latest copy from sourcecontrol
+		Clones Repo to Testing directory on JJFDev	
+-Looked in the source code for Roadkill
+	-Found places to edit to make
+	-Downloaded and wrote in places to add templates
+
+
+I need help...
+-Installing Nant
+-License for Visual Studios 2013
+-An approach to compile edited Roadkill to keep website up and running on the edited src code
+-Email
+	I'm not sure if there is some security thing set up with the email.
+-How do you want the pages to look like? I don't know how to do floats
+
+Things to do
+
+Look into inserting html for tables into the wiki
+<tr></tr>,<th></th>,<td></td>
