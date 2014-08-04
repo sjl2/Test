@@ -7,7 +7,7 @@ namespace TestApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Test App 1 is working!");
-            Console.Read();
+            Console.Rea
         }
     }
 }
