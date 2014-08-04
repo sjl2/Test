@@ -12,6 +12,7 @@
     <target name="build" description="compiles the source code">
       <msbuild project="${Repo.Name}.sln">
         <property name="Configuration" value="${Build.Configuration}" />
+        <arg value="/p:OutputPath=C:/Testing/${Repo.Name}" />
       </msbuild>  
     </target>
       
