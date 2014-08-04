@@ -11,7 +11,7 @@ namespace TestApp2
         static void Main(string[] args)
         {
             Console.WriteLine("Test App 2 is working!");
-            Console.Read()
+            Console.Read();
         }
     }
 }
