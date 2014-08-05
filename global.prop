@@ -1,5 +1,0 @@
-<?xml version="1.0"?>
-    <project name="Build File Properties">
-      <property name="Repo.Name" value="Test" />	
-      <property name="Build.Configuration" value="Release" />
-    </project>
