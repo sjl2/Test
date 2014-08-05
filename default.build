@@ -5,7 +5,7 @@
     <description>Builds solution to bin folder</description>
     
     <target name="clean" description="cleans out bin file">
-      <delete name="**/bin/Debug" failonfailure="false"/>
+      <delete name="**/bin/Debug" failonerror="false"/>
     
     </target>
   
